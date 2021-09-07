@@ -17,5 +17,5 @@
     - camera
     - self-stick
     - Basketball
-    - Dog
+    - Skateboard
        
