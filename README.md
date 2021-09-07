@@ -20,3 +20,18 @@
     - Skateboard
        
        [Myself](AboutMe.md)
+---
+
+## FOOD ITEMS
+McDonald's is an American corportion that operates one of the largest chains of fast food restaurants in the world.
+ | FOOD ITEMS | LOCATION | AMOUNT |
+ | ---| ---| ---: |
+ | Tacos | McDonald's | 4$ |
+ | Pizza | McDonald's | 15$ |
+ | Burger | McDonald's | 10$ |
+ | Chicken Nuggets | McDonald's | 6$ |
+
+
+
+ 
+       
