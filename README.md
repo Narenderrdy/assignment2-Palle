@@ -31,6 +31,13 @@ McDonald's is an American corportion that operates one of the largest chains of 
  | Burger | McDonald's | 10$ |
  | Chicken Nuggets | McDonald's | 6$ |
 
+---
+## PITHY QUOTES
+
+ > The unexamined life is not worth living". - *Socrates*
+ 
+>  One cannot step twice in the same river. -*Heraclitus*
+
 
 
  
