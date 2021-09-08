@@ -19,7 +19,7 @@
     - Basketball
     - Skateboard
        
-       [Myself](AboutMe.md)
+       [About Myself](AboutMe.md)
 ---
 
 ## FOOD ITEMS
@@ -39,6 +39,8 @@ McDonald's is an American corportion that operates one of the largest chains of 
 >  One cannot step twice in the same river. -*Heraclitus*
 ---
 ## CODE FENCING
+### Circle-Line Intersection
+
 > An (infinite) line determined by two points (x_1,y_1) and (x_2,y_2) may intersect a circle of radius r and center (0, 0) in two imaginary points, a degenerate single point (corresponding to the line being tangent to the circle; middle figure), or two real points [FOLLOWLINK] (https://mathworld.wolfram.com/Circle-LineIntersection.html)
 
 ```java
@@ -63,6 +65,7 @@ else {
     cout << ax << ' ' << ay << '\n' << bx << ' ' << by << '\n';
 }
 ```
+(https://cp-algorithms.com/geometry/circle-line-intersection.html)
 
  
        
